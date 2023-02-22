@@ -191,7 +191,7 @@ function getQueryVariable(variable) {
                     kind: OptionKind.API
                 },
                 cMapUrl: {
-                    value: "./cmaps/",
+                    value: "../web/cmaps/",
                     kind: OptionKind.API
                 },
                 disableAutoFetch: {
@@ -235,7 +235,7 @@ function getQueryVariable(variable) {
                     kind: OptionKind.API
                 },
                 standardFontDataUrl: {
-                    value: "./standard_fonts/",
+                    value: "../web/standard_fonts/",
                     kind: OptionKind.API
                 },
                 verbosity: {
